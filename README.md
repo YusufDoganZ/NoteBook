@@ -1,2 +1,2 @@
 # NoteBook With C#
-##A simple notebook application##
+A simple notebook application
